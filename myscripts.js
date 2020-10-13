@@ -7,8 +7,8 @@ function completarFrase()
   {
   who : ["Mi perro","Mi novia","Tu padre","Un cocodrilo","La vecina","Mi mejor amigo"],
   what : [" estaba lavando "," estaba organizando "," pidiendo  "," estaba comprando "],
-  thing : ["un coche ","un flan ","unas patatas","una casa ","una cama ","una piedra "],
-  when : ["ayer","el miercoles","el otro día","en la noche","en la mañana"],
+  thing : [" un coche "," un flan "," unas patatas"," una casa "," una cama "," una piedra "],
+  when : [" ayer"," el miercoles"," el otro día"," en la noche"," en la mañana"],
   }
 
 
